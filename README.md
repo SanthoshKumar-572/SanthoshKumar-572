@@ -30,9 +30,7 @@
 - 👨‍💻 &nbsp;**Name** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — &nbsp;Santhosh Kumar
 - 🏫 &nbsp;**College** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — &nbsp;VSB Engineering College, Karur
 - 💻 &nbsp;**Department** — &nbsp;B.Tech Information Technology
-- 📅 &nbsp;**Semester** &nbsp;&nbsp;&nbsp; — &nbsp;4th Semester (2nd Year)
 - 📍 &nbsp;**Location** &nbsp;&nbsp;&nbsp;&nbsp; — &nbsp;Dindigul, Tamil Nadu, India 🇮🇳
-- 🌱 &nbsp;**Learning** &nbsp;&nbsp;&nbsp;&nbsp; — &nbsp;PHP Internals & Advanced DBMS
 - 💬 &nbsp;**Ask me** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — &nbsp;Web Dev · Databases · Java · Python
 - ⚡ &nbsp;**Fun fact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — &nbsp;I debug with `console.log` 😄
 
@@ -191,7 +189,5 @@
   **✨ Thanks for visiting! Give a ⭐ if you like my work!**
 
   <br/>
-
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SanthoshKumar-572.SanthoshKumar-572&style=for-the-badge&color=7f77dd)
-
 </div>
