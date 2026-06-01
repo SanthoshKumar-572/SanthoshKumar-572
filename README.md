@@ -180,6 +180,4 @@
 
   **✨ Thanks for visiting! Give a ⭐ if you like my work!**
 
-  <br/>
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SanthoshKumar-572.SanthoshKumar-572&style=for-the-badge&color=7f77dd)
-</div>
+ 
