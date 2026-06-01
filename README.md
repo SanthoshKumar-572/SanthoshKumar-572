@@ -98,7 +98,7 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </div>
----
+
 
 ---
 
@@ -110,11 +110,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanthoshKumar-572&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
 
 ---
 
