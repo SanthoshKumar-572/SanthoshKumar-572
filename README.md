@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=SANTHOSH%20KUMAR&fontSize=62&fontColor=e94560&fontAlignY=45&desc=B.Tech%20IT%20%7C%20VSB%20Engineering%20College%2C%20Karur&descAlignY=68&descSize=17&descColor=a8b2d8&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:4FC3F7,50:29B6F6,100:81D4FA&height=220&section=header&text=SANTHOSH%20KUMAR&fontSize=62&fontColor=ffffff&fontAlignY=45&desc=B.Tech%20IT%20%7C%20VSB%20Engineering%20College%2C%20Karur&descAlignY=68&descSize=17&descColor=e3f2fd&animation=fadeIn"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 | Socials |
 |:-------:|
-| [![GitHub](https://img.shields.io/badge/GitHub-rrsanthoshkumar06--web-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=0f3460)](https://github.com/rrsanthoshkumar06-web) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f3460)](https://linkedin.com) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-rrsanthoshkumar06%40gmail.com-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f3460)](mailto:rrsanthoshkumar06@gmail.com) |
+| [![GitHub](https://img.shields.io/badge/GitHub-rrsanthoshkumar06--web-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=29B6F6)](https://github.com/rrsanthoshkumar06-web) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=29B6F6)](https://linkedin.com) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-rrsanthoshkumar06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=29B6F6)](mailto:rrsanthoshkumar06@gmail.com) |
 
 </div>
 
@@ -69,13 +69,13 @@ Quote     : "Think deep. Build clean. Ship fast."
 
 ---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rrsanthoshkumar06-web&show_icons=true&theme=transparent&hide_border=true&title_color=e94560&icon_color=e94560&text_color=a8b2d8&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rrsanthoshkumar06-web&show_icons=true&theme=transparent&hide_border=true&title_color=29B6F6&icon_color=29B6F6&text_color=555&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrsanthoshkumar06-web&layout=compact&theme=transparent&hide_border=true&title_color=e94560&text_color=a8b2d8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrsanthoshkumar06-web&layout=compact&theme=transparent&hide_border=true&title_color=29B6F6&text_color=555"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rrsanthoshkumar06-web&theme=transparent&hide_border=true&stroke=e94560&ring=e94560&fire=0f3460&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=e94560"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rrsanthoshkumar06-web&theme=transparent&hide_border=true&stroke=29B6F6&ring=4FC3F7&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=555&dates=555&currStreakNum=29B6F6"/>
 
 </div>
 
@@ -83,8 +83,8 @@ Quote     : "Think deep. Build clean. Ship fast."
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rrsanthoshkumar06-web&color=e94560&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=rrsanthoshkumar06-web&color=29B6F6&style=flat-square&label=Profile+Views)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0f3460,50:16213e,100:1a1a2e&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:81D4FA,50:29B6F6,100:4FC3F7&height=140&section=footer"/>
 
 </div>
