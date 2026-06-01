@@ -14,7 +14,9 @@
 </div>
 
 <br/>
+
 ---
+
 ## 🙋‍♂️ About Me
 
 <img align="right" alt="Coding GIF" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -28,6 +30,7 @@
 
 <br clear="right"/>
    🌐 Connect with Me
+
 <div align="center">
 
   <a href="https://www.linkedin.com/in/santhoshkumar57/?isSelfProfile=false" target="_blank">
@@ -47,8 +50,11 @@
   </a>
 
 </div>
+
 ---
+
 ## 🛠️ Tech Stack
+
 ### 💻 Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,java,php&perline=6&theme=dark"/>
@@ -59,7 +65,9 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </div>
+
 <br/>
+
 ### 🎨 Frontend Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,sass&perline=6&theme=dark"/>
@@ -69,14 +77,18 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </div>
+
 <br/>
+
 ### ⚙️ Backend & Database
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,&perline=6&theme=dark"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
+
 <br/>
+
 ### 🧰 Tools & Platforms
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=6&theme=dark"/>
@@ -87,12 +99,32 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </div>
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar-572&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=7f77dd"/>
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar-572&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd"/>
+</div>
+
+---
+
 ## 🔥 GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SanthoshKumar-572&theme=tokyonight&hide_border=true&background=0d1117&stroke=7f77dd&ring=7f77dd&fire=ff6b6b&currStreakLabel=7f77dd" alt="GitHub Streak"/>
 </div>
+
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanthoshKumar-572&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
