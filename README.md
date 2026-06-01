@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhosh%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20IT%20Student&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhosh%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front%20End%20Developer%20%7C%20B.Tech%20IT%20Student&descAlignY=55&descSize=18"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Santhosh+Kumar+👋;B.Tech+IT+%40+VSB+Engineering+College%2C+Karur;Front+end+Developer+%26+Problem+Solver;Powered+by+caffeine+%26+clean+code+☕"  />
 <!-- Typing Animation -->
 <div align="center">
@@ -99,13 +99,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </div>
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar-572&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=7f77dd"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar-572&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd"/>
-</div>
 
 ---
 
