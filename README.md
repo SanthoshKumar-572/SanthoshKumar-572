@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Santhosh%20Kumar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20Information%20Technology%20%7C%20VSB%20Engineering%20College%2C%20Karur&descAlignY=58&descSize=16&descColor=ccccff"/>
-</div>
-img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Santhosh+Kumar+👋;B.Tech+IT+%40+VSB+Engineering+College%2C+Karur;Full+Stack+Developer+%26+Problem+Solver;Powered+by+caffeine+%26+clean+code+☕" alt="Typing SVG" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Santhosh%20Kumar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20Information%20Technology%20%7C%20VSB%20Engineering%20College%2C%20Karur&descAlignY=58&descSize=16&descColor=ccccff"/>
 </div>
 
