@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhosh%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20IT%20Student&descAlignY=55&descSize=18"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Santhosh+Kumar+👋;B.Tech+IT+%40+VSB+Engineering+College%2C+Karur;Full+Stack+Developer+%26+Problem+Solver;Powered+by+caffeine+%26+clean+code+☕"  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Santhosh+Kumar+👋;B.Tech+IT+%40+VSB+Engineering+College%2C+Karur;Front+end+Developer+%26+Problem+Solver;Powered+by+caffeine+%26+clean+code+☕"  />
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&height=50&lines=👋+Hi+there!+I'm+Santhosh+Kumar;💻+Full+Stack+Developer+in+the+making;🎓+B.Tech+IT+%40+VSB+Engineering+College;🌱+Learning+PHP+%7C+DBMS+%7C+Web+Dev;⚡+Powered+by+caffeine+%26+clean+code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&height=50&lines=👋+Hi+there!+I'm+Santhosh+Kumar;💻+Front+end+Developer+in+the+making;🎓+B.Tech+IT+%40+VSB+Engineering+College;🌱+Learning+PHP+%7C+DBMS+%7C+Web+Dev;⚡+Powered+by+caffeine+%26+clean+code" alt="Typing SVG"/>
 </div>
 <br/>
 <!-- Badges row -->
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/santhoshkumar" target="_blank">
+  <a href="https://www.linkedin.com/in/santhoshkumar57/?isSelfProfile=false" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Santhosh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -77,9 +77,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 </div>
 
 <br/>
@@ -88,10 +86,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,firebase&perline=6&theme=dark"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </div>
 
 <br/>
@@ -103,13 +98,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </div>
-
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
