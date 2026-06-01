@@ -20,13 +20,11 @@
 
 💻 &nbsp;**Department** — B.Tech Information Technology
 
-📅 &nbsp;**Semester** — 4th Semester
-
-📍 &nbsp;**Location** — Chennai, Tamil Nadu, India
+📍 &nbsp;**Location** — Dindigul, Tamil Nadu, India
 
 🌱 &nbsp;**Currently Learning** — PHP Internals & Advanced DBMS
 
-🤔 &nbsp;**Ask me about** — Web Dev, Databases, C/C++, Python
+🤔 &nbsp;**Ask me about** — Web Dev, Databases, Java, Python
 
 ⚡ &nbsp;**Fun fact** — I debug with `console.log` and I'm not ashamed 😄
 
