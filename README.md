@@ -3,7 +3,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Santhosh%20Kumar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20Information%20Technology%20%7C%20VSB%20Engineering%20College%2C%20Karur&descAlignY=58&descSize=16&descColor=ccccff"/>
 </div>
 img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Santhosh+Kumar+👋;B.Tech+IT+%40+VSB+Engineering+College%2C+Karur;Full+Stack+Developer+%26+Problem+Solver;Powered+by+caffeine+%26+clean+code+☕" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Santhosh%20Kumar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20Information%20Technology%20%7C%20VSB%20Engineering%20College%2C%20Karur&descAlignY=58&descSize=16&descColor=ccccff"/>
+</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhosh%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20IT%20Student&descAlignY=55&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Santhosh+Kumar+👋;B.Tech+IT+%40+VSB+Engineering+College%2C+Karur;Full+Stack+Developer+%26+Problem+Solver;Powered+by+caffeine+%26+clean+code+☕" alt="Typing SVG" />
 <!-- Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&height=50&lines=👋+Hi+there!+I'm+Santhosh+Kumar;💻+Full+Stack+Developer+in+the+making;🎓+B.Tech+IT+%40+VSB+Engineering+College;🌱+Learning+PHP+%7C+DBMS+%7C+Web+Dev;⚡+Powered+by+caffeine+%26+clean+code" alt="Typing SVG"/>
