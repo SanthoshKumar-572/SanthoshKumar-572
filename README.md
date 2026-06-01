@@ -2,7 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Santhosh+Kumar+👋;B.Tech+IT+%40+VSB+Engineering+College%2C+Karur;Front+end+Developer+%26+Problem+Solver;Powered+by+caffeine+%26+clean+code+☕"  />
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&height=50&lines=👋+Hi+there!+I'm+Santhosh+Kumar;💻+Front+end+Developer+in+the+making;🎓+B.Tech+IT+%40+VSB+Engineering+College;🌱+Learning+PHP+%7C+DBMS+%7C+Web+Dev;⚡+Powered+by+caffeine+%26+clean+code" alt="Typing SVG"/>
 </div>
 <br/>
 <!-- Badges row -->
@@ -30,7 +29,7 @@
 - ⚡ &nbsp;**Fun fact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — &nbsp;I debug with `console.log` 😄
 
 <br clear="right"/>
-## 🌐 Connect with Me
+   🌐 Connect with Me
 
 <div align="center">
 
@@ -148,7 +147,7 @@
 
 | 🏫 College | 🏙️ Location | 💻 Degree | 📚 Department | 📅 Year |
 |:----------:|:-----------:|:---------:|:-------------:|:-------:|
-| VSB Engineering College | Karur, Tamil Nadu | B.Tech | Information Technology | 2023 – 2027 |
+| VSB Engineering College | Karur, Tamil Nadu | B.Tech | Information Technology | 2024 – 2028 |
 
 </div>
 
