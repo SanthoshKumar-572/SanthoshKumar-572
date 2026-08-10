@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=220&section=header&text=Santhosh%20Kumar%20R&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Java%20%26%20JavaScript&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=220&section=header&text=Santhosh%20Kumar%20R&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20Java%20%26%20JavaScript&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+Java+%26+React;Solving+DSA+Problems+Daily;Backend+with+MongoDB+%26+MySQL;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
@@ -49,16 +49,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Santhoshkumarramasamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshkumarramasamy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar-572&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar-572&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhoshkumarramasamy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshKumar-572&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhoshkumarramasamy&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar-572&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -78,13 +78,13 @@
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santhoshkumarramasamy&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SanthoshKumar-572&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Santhoshkumarramasamy&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SanthoshKumar-572&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 <p align="center">
