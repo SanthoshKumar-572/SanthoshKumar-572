@@ -138,8 +138,8 @@ Live stats card is in the LeetCode Progress section below.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar-572&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0891B2&text_color=E2E8F0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar-572&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0" width="35%" />
+<img src="https://github-stats-extended.vercel.app/api?username=SanthoshKumar-572&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0891B2&text_color=E2E8F0" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SanthoshKumar-572&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0" width="35%" />
 
 <img src="https://streak-stats.demolab.com?user=SanthoshKumar-572&hide_border=true&background=0F172A&stroke=0891B2&ring=22D3EE&fire=22D3EE&currStreakLabel=E2E8F0" width="49%" />
 
