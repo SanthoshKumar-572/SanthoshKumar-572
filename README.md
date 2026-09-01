@@ -160,7 +160,7 @@ Live stats card is in the LeetCode Progress section below.
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SanthoshKumar-572&theme=onedark&no-frame=true&margin-w=15&row=1&column=6" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SanthoshKumar-572&theme=onedark&no-frame=true&margin-w=15&row=1&column=6" />
 </div>
 
 <br/>
