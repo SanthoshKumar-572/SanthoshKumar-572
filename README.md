@@ -61,9 +61,7 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar-572&theme=github-compact&hide_border=true)](https://github.com/SanthoshKumar-572)
 
-<img src="./assets/contribution-graph.svg" alt="Monthly GitHub contributions chart" width="95%"/>
-
-<sub>📈 Chart auto-updates daily via <a href="./.github/workflows/update-chart.yml">GitHub Actions</a></sub>
+![Daily Contribution Heatmap](https://ghchart.rshah.org/C1666B/SanthoshKumar-572)
 
 ---
 
