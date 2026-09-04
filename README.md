@@ -61,8 +61,6 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar-572&theme=github-compact&hide_border=true)](https://github.com/SanthoshKumar-572)
 
-![Daily Contribution Heatmap](https://ghchart.rshah.org/C1666B/SanthoshKumar-572)
-
 ---
 
 ### 🏆 LeetCode Progress
