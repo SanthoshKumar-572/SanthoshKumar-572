@@ -1,0 +1,112 @@
+name: Update Contribution Chart
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  update-chart:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests matplotlib
+
+      - name: Generate chart
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: SanthoshKumar-572
+        run: |
+          python - <<'PYEOF'
+          import os, sys, calendar
+          from collections import defaultdict
+          from datetime import date
+          import requests
+          import matplotlib
+          matplotlib.use("Agg")
+          import matplotlib.pyplot as plt
+
+          GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
+          USERNAME = os.environ["GITHUB_USERNAME"]
+
+          QUERY = """
+          query($login: String!, $from: DateTime!, $to: DateTime!) {
+            user(login: $login) {
+              contributionsCollection(from: $from, to: $to) {
+                contributionCalendar {
+                  weeks { contributionDays { date contributionCount } }
+                }
+              }
+            }
+          }
+          """
+
+          today = date.today()
+          start_of_year = date(today.year, 1, 1).isoformat() + "T00:00:00Z"
+          end_of_today = today.isoformat() + "T23:59:59Z"
+
+          resp = requests.post(
+              "https://api.github.com/graphql",
+              json={"query": QUERY, "variables": {"login": USERNAME, "from": start_of_year, "to": end_of_today}},
+              headers={"Authorization": f"bearer {GITHUB_TOKEN}"},
+              timeout=30,
+          )
+          resp.raise_for_status()
+          data = resp.json()
+          if "errors" in data:
+              print(data["errors"], file=sys.stderr)
+              sys.exit(1)
+
+          weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+          monthly_counts = defaultdict(int)
+          for week in weeks:
+              for day in week["contributionDays"]:
+                  monthly_counts[day["date"][:7]] += day["contributionCount"]
+
+          months_sorted = sorted(monthly_counts.keys())
+          labels = [calendar.month_abbr[int(m.split("-")[1])] for m in months_sorted]
+          values = [monthly_counts[m] for m in months_sorted]
+
+          BG, LINE, POINT, GRID, TEXT, WHITE = "#0d1117", "#B8834D", "#C1666B", "#2a2f3a", "#C9A84C", "#e6e6e6"
+
+          fig, ax = plt.subplots(figsize=(9, 4), dpi=150)
+          fig.patch.set_facecolor(BG)
+          ax.set_facecolor(BG)
+          ax.plot(labels, values, color=LINE, linewidth=2.5, marker="o", markersize=6,
+                  markerfacecolor=POINT, markeredgecolor=POINT, zorder=3)
+          ax.fill_between(labels, values, color=LINE, alpha=0.12, zorder=1)
+          ax.set_title("GitHub Contributions", color=TEXT, fontsize=16, fontweight="bold", loc="left", pad=14)
+          ax.text(0, 1.02, "Contribution activity by month", color=WHITE, fontsize=10,
+                  transform=ax.transAxes, ha="left", va="bottom", alpha=0.75)
+          ax.spines[["top", "right", "left"]].set_visible(False)
+          ax.spines["bottom"].set_color(GRID)
+          ax.tick_params(colors=WHITE, labelsize=10)
+          ax.yaxis.grid(True, color=GRID, linestyle="--", linewidth=0.7, alpha=0.6)
+          ax.set_axisbelow(True)
+          ax.set_ylim(bottom=0)
+          for label in ax.get_xticklabels() + ax.get_yticklabels():
+              label.set_color(WHITE)
+          plt.tight_layout()
+
+          os.makedirs("assets", exist_ok=True)
+          plt.savefig("assets/contribution-graph.svg", facecolor=BG, format="svg")
+          print("Saved chart to assets/contribution-graph.svg")
+          PYEOF
+
+      - name: Commit updated chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-graph.svg
+          git diff --cached --quiet || git commit -m "chore: update contribution chart"
+          git push
