@@ -42,16 +42,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Project Name](https://github.com/SanthoshKumar-572/REPLACE-WITH-REPO)** | One-line description of what it does and why it's interesting | React · Node · MongoDB |
-| **[Project Name](https://github.com/SanthoshKumar-572/REPLACE-WITH-REPO)** | One-line description | Java · MySQL |
-| **[Project Name](https://github.com/SanthoshKumar-572/REPLACE-WITH-REPO)** | One-line description | HTML · CSS · JS |
-
----
-
 ### 📊 GitHub Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=SanthoshKumar-572&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=C9A84C&icon_color=B8834D&text_color=ffffff&bg_color=0d1117)](https://github.com/SanthoshKumar-572)
@@ -59,7 +49,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanthoshKumar-572&theme=tokyonight&hide_border=true&background=0d1117&ring=C9A84C&fire=B8834D&currStreakLabel=C1666B)](https://github.com/SanthoshKumar-572)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar-572&theme=github-compact&hide_border=true)](https://github.com/SanthoshKumar-572)
+[![GitHub Contribution Line Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar-572&bg_color=000000&color=ffffff&line=3B82F6&point=3B82F6&area=false&hide_border=true&title_color=ffffff)](https://github.com/SanthoshKumar-572)
 
 ---
 
@@ -74,6 +64,16 @@
 ### 🏅 GitHub Trophies
 
 [![](https://github-profile-trophy.vercel.app/?username=SanthoshKumar-572&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/SanthoshKumar-572)
+
+---
+
+### 📂 All Repositories
+
+<a href="https://github.com/SanthoshKumar-572?tab=repositories">
+  <img src="https://img.shields.io/badge/Browse%20all%20repositories-C1666B?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"/>
+</a>
+
+This link always shows my complete, up-to-date repository list on GitHub.
 
 ---
 
