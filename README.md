@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2f81f7&height=240&section=header&text=Santhosh%20Kumar%20R&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=B.Tech%20IT%20%7C%20MERN%20Stack%20%7C%20AI%20Builder&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41295a,50:8e2de2,100:f857a6&height=240&section=header&text=Santhosh%20Kumar%20R&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=B.Tech%20IT%20%7C%20MERN%20Stack%20%7C%20AI%20Builder&descSize=20&descAlignY=58" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Hi+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;Building+full-stack+%26+AI-powered+apps;Finalist+%E2%80%93+Dream2Reality+%40+PSG+Tech+%F0%9F%8F%86;Solving+problems+on+LeetCode+daily" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F857A6&center=true&vCenter=true&width=650&height=45&lines=Hi+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;Building+full-stack+%26+AI-powered+apps;Solving+problems+on+LeetCode+daily" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://leetcode.com/u/Santhoshkumarramasamy/"><img src="https://img.shields.io/badge/LeetCode-Santhoshkumarramasamy-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://github.com/SanthoshKumar-572?tab=followers"><img src="https://img.shields.io/github/followers/SanthoshKumar-572?label=Followers&style=for-the-badge&logo=github&color=2F81F7" /></a>
-<img src="https://komarev.com/ghpvc/?username=SanthoshKumar-572&label=Profile+Views&color=2F81F7&style=for-the-badge" />
+<a href="https://github.com/SanthoshKumar-572?tab=followers"><img src="https://img.shields.io/github/followers/SanthoshKumar-572?label=Followers&style=for-the-badge&logo=github&color=8E2DE2" /></a>
+<img src="https://komarev.com/ghpvc/?username=SanthoshKumar-572&label=Profile+Views&color=F857A6&style=for-the-badge" />
 
 </div>
 
@@ -101,12 +101,12 @@
 
 <a href="https://leetcode.com/u/Santhoshkumarramasamy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://github.com/SanthoshKumar-572"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/SanthoshKumar-572?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2F81F7?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://github.com/SanthoshKumar-572?tab=repositories"><img src="https://img.shields.io/badge/Repositories-8E2DE2?style=for-the-badge&logo=git&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;Open+to+SDE+internships+%E2%80%93+let's+build+something+great!+%F0%9F%9A%80" alt="quote" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,50:203a43,100:0f2027&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f857a6,50:8e2de2,100:41295a&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer" />
 
 </div>
