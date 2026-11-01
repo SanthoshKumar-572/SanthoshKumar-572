@@ -1,104 +1,103 @@
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:C1666B,100:C9A84C&height=200&section=header&text=Hi%20I'm%20Santhosh%20Kumar%20R%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descAlign=50)
+<h1 align="center">Hi, I'm Santhosh Kumar R 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+VSB+Engineering+College;MERN+Stack+%7C+AI+Projects;Solving+problems+on+LeetCode+daily" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Santhoshkumarramasamy/"><img src="https://img.shields.io/badge/LeetCode-Santhoshkumarramasamy-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/SanthoshKumar-572"><img src="https://img.shields.io/github/followers/SanthoshKumar-572?label=Followers&style=for-the-badge&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SanthoshKumar-572&label=Profile+Views&color=2F81F7&style=for-the-badge" />
+</p>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-<img align="right" alt="Developer Working Animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280"/>
+- 🎓 B.Tech Information Technology (2024–2028) at **VSB Engineering College**
+- 🏆 Finalist (Top 5) – **Dream2Reality**, conducted by PSG Tech
+- 🚀 Building full-stack and AI-powered apps with the MERN stack and Google Gemini
+- 🧩 Practising DSA on LeetCode
 
-- **B.Tech – Information Technology**, 3rd Year
-- **Full-Stack Developer** — MERN stack (React, Node.js, Express, MongoDB)
-- Solving **DSA problems** daily on LeetCode with **Java**
-- Exploring **AI / LLM-powered application development**
-- Comfortable with **Cloud, Docker & REST APIs**
-- Open to collaborating on full-stack and AI-powered projects 🌍
-- Debugging enthusiast: one `console.log` away from a fix ⚡
+## 🛠️ Tech Stack
 
-**Email:** rrsanthoshkumar06@gmail.com
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
----
+## 📌 Featured Projects
 
-## Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ <a href="https://github.com/SanthoshKumar-572/AI_Travel_Planner">TripWise AI</a></h3>
+      Full-stack AI travel planner: Gemini-generated itineraries, live weather, expense tracker, Google OAuth and PDF export.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" /><br/><br/>
+      🌐 <a href="https://ai-trip-planner-ldfw.onrender.com/">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📲 <a href="https://github.com/SanthoshKumar-572/markalert">MarkAlert</a></h3>
+      College internal marks notification system: Excel upload, validation, personalised WhatsApp/SMS to parents, retry and reports, with role-based access.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?logo=whatsapp&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-[![React](https://img.shields.io/badge/React-C1666B?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-C9A84C?style=for-the-badge&logo=nodedotjs&logoColor=black)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-B8834D?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-C1666B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Java](https://img.shields.io/badge/Java-C9A84C?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-B8834D?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://img.shields.io/badge/MySQL-C1666B?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Docker](https://img.shields.io/badge/Docker-C9A84C?style=for-the-badge&logo=docker&logoColor=black)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-B8834D?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-C1666B?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumar-572&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar-572&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## Featured Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SanthoshKumar-572&theme=tokyonight&hide_border=true" />
+</p>
 
-- **Project Name 1** — Tech, Tech, Tech
-  One or two lines describing what the project does and the problem it solves.
+## 📈 Daily Contribution Activity Graph
 
-- **Project Name 2** — Tech, Tech, Tech
-  One or two lines describing what the project does and the problem it solves.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar-572&theme=tokyo-night&hide_border=true&area=true&custom_title=Daily%20Contribution%20Graph" width="100%" />
+</p>
 
-- **Project Name 3** — Tech, Tech, Tech
-  One or two lines describing what the project does and the problem it solves.
+## 🧠 LeetCode Stats
 
-*Replace these with your actual repos — name, stack, and a short one-liner on what each one does.*
+<p align="center">
+  <a href="https://leetcode.com/u/Santhoshkumarramasamy/">
+    <img src="https://leetcard.jacoblin.cool/Santhoshkumarramasamy?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img height="170" src="https://leetcode-stats-six.vercel.app/api?username=Santhoshkumarramasamy&theme=dark" />
+</p>
 
-## Let's Connect
+## 🏆 Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B8834D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshkumar57/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-C9A84C?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Santhoshkumarramasamy/)
-[![GitHub](https://img.shields.io/badge/GitHub-C1666B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanthoshKumar-572)
-[![Gmail](https://img.shields.io/badge/Gmail-C1666B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrsanthoshkumar06@gmail.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanthoshKumar-572&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
 
----
+## 📫 Connect
 
-## Current Focus
+<p align="center">
+  <a href="https://leetcode.com/u/Santhoshkumarramasamy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/SanthoshKumar-572"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-- Building full-stack projects with the MERN stack
-- Deepening **DSA & problem-solving** skills in Java
-- Learning **System Design** fundamentals
-- Exploring **AI/LLM-powered app development**
-
----
-
-## GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=SanthoshKumar-572&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=C9A84C&icon_color=B8834D&text_color=ffffff&bg_color=0d1117)](https://github.com/SanthoshKumar-572)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumar-572&layout=compact&theme=tokyonight&hide_border=true&title_color=C9A84C&text_color=ffffff&bg_color=0d1117)](https://github.com/SanthoshKumar-572)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanthoshKumar-572&theme=tokyonight&hide_border=true&background=0d1117&ring=C9A84C&fire=B8834D&currStreakLabel=C1666B)](https://github.com/SanthoshKumar-572)
-
----
-
-## LeetCode Progress
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Santhoshkumarramasamy?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Santhoshkumarramasamy/)
-
----
-
-## GitHub Trophies
-
-[![](https://github-profile-trophy.vercel.app/?username=SanthoshKumar-572&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/SanthoshKumar-572)
-
----
-
-## Coding Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar-572&theme=minimal&hide_border=true&area=true&color=C9A84C&line=C1666B&point=B8834D)
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=SanthoshKumar-572&style=for-the-badge&color=C1666B)](https://github.com/SanthoshKumar-572)
-
-### Thanks for visiting! ⭐ Feel free to connect.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1666B,100:C9A84C&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center"><i>⭐ Open to SDE internships – let's build something great!</i></p>
