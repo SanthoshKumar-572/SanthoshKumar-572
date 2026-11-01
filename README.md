@@ -73,16 +73,8 @@
 
 ## 📈 Daily Contribution Activity
 
-### 🔥 Last 31 Days – Daily Commits (Line Graph)
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar-572&days=31&height=420&bg_color=0d1117&color=F857A6&line=8E2DE2&point=FFFFFF&area=true&area_color=8E2DE2&title_color=F857A6&hide_border=false&radius=10&custom_title=Daily%20Contribution%20Graph%20(Last%2031%20Days)" width="100%" alt="Daily contribution graph" />
-</p>
-
-### 🟪 Last 12 Months – Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/8E2DE2/SanthoshKumar-572" alt="GitHub contribution calendar" width="95%" />
+  <img src="assets/activity-graph.svg" width="100%" alt="Daily contribution activity graph" />
 </p>
 
 ### ⏰ Productive Time & Profile Summary
